@@ -43,3 +43,6 @@ Thumbs.db
 
 # Local docs (optional — remove if you want to include them)
 # docs/
+
+# Local SQLite database (contains per-session usage data)
+backend/empath_local.db
